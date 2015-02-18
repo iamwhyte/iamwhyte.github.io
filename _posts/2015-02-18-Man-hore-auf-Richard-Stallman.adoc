@@ -1,4 +1,5 @@
 = Man höre auf Richard Stallman
+:hp-tags: Freie Software, GNU, Steve Jobs
 
 Der GNU-Papst Richard Stallman ist ein Prediger - er predigt radikalen Verzicht und wünscht, verlangt geradezu, dass mehr Menschen seiner Philosophie der freien Software folgen. Und obwohl er ein Ideologe ist und sich dadurch in nicht immer leicht verständlichen Hassäußerungen gegenüber open source (dem Label, nicht der Tatsache) im Unterschied zu freier Software (sein eigenes Label) verliert, sollten wir ihm zuhören. Denn sieht man von solchem Heckmeck ab, sagt er enorm wichtige Dinge.
 
