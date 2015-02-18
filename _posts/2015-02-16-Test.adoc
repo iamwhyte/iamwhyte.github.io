@@ -7,4 +7,4 @@ Test
 
 http://www.uni-siegen.de
 
-image::https://cloud.githubusercontent.com/assets/11030970/6246687/091eeb9c-b76c-11e4-8c53-d3fa0d140b19.png
+image::http://cloud.githubusercontent.com/assets/11030970/6246687/091eeb9c-b76c-11e4-8c53-d3fa0d140b19.png
