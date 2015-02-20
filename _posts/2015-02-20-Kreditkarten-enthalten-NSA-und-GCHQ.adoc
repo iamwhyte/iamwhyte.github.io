@@ -1,0 +1,6 @@
+= Kreditkarten enthalten NSA und GCHQ
+
+SIM- und Kreditkarten kaufen wir seit Jahren mit der NSA als Gratisfeature. Wie heise.de berichtet, holen sich GCHQ und die Amis direkt ab Werk die benötigten Schlüssel ab, um alle Übertragungen mitzulesen. Dabei geht es um weit mehr als SMS.
+
+
+http://www.heise.de/newsticker/meldung/Geheimdienste-unterwandern-SIM-und-Kreditkarten-2555685.html
