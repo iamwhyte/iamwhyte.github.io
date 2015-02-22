@@ -11,6 +11,6 @@ Im letzten Jahr hielt er den folgenden Vortrag, in dem er viele seiner wegweisen
 <iframe src="http://media.ccc.de/browse/congress/2014/31c3_-_6123_-_en_-_saal_1_-_201412291130_-_freedom_in_your_computer_and_in_the_net_-_richard_stallman/oembed.html" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 ++++
 
-Interessant ist auch die Rubrik "What's bad about" seiner Homepage https://www.stallman.org/, wo er begründet, warum man seiner Meinung nach Amazon, Apple, Facebook, Skype Google, Ebooks und mehr meiden sollte.
+Interessant ist auch die Rubrik "What's bad about" seiner Homepage https://www.stallman.org/, wo er begründet, warum man seiner Meinung nach Amazon, Apple, Facebook, Skype, Google, Ebooks und mehr meiden sollte.
 
-Man muss seinen Ratschlägen nicht in ihrer ganzen Radikalität folgen (der Mann besitzt kein Handy, verwendet keinen Flash Player und keine .mp3s). Man sollte sie sich aber dennoch durch den Kopf gehen lassen und sich die Frage stellen, ob die Rückgewinnung eigener Freiheit nicht einiges an Komfortverzicht rechtfertigt.
+Man muss seinen Ratschlägen nicht in ihrer ganzen Radikalität folgen (der Mann besitzt kein Handy, verwendet keinen Flash Player (Update: das ist wohl wirklich eine empfehlenswerte Idee) und keine .mp3s). Man sollte sie sich aber dennoch durch den Kopf gehen lassen und sich die Frage stellen, ob die Rückgewinnung eigener Freiheit nicht einiges an Komfortverzicht rechtfertigt.
