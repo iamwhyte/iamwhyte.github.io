@@ -23,3 +23,5 @@ Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook
 Bastian Weiß
 
 E-Mail: dasweissschesammelsurium(at)we.de
+
+Gerne verschlüsselt mit http://pool.sks-keyservers.net/pks/lookup?op=get&search=0xEFDB9B0942623C5D[diesem Key - ohne Garantie]
