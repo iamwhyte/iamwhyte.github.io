@@ -24,4 +24,4 @@ Bastian Weiß
 
 E-Mail: dasweissschesammelsurium(at)we.de
 
-//E-Mails gerne verschlüsselt mit http://pool.sks-keyservers.net/pks/lookup?op=get&search=0xEFDB9B0942623C5D[diesem Key - ohne Garantie]
+E-Mails gerne verschlüsselt mit https://hkps.pool.sks-keyservers.net/pks/lookup?op=get&search=0xEFDB9B0942623C5D[diesem Key - ohne Garantie]
