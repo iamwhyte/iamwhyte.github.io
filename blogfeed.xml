@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>!Das Weißsche Sammelsurium</title>
+<link>http://iamwhyte.github.io</link>
+<description>!Das Weißsche Sammelsurium - RSS</description>
+
+<item>
+<title>Lichtblicke und Fußtritte</title>
+<link>http://iamwhyte.github.io/2015/03/15/Lichtblicke-und-Fusstritte.html</link>
+<guid>http://iamwhyte.github.io/2015/03/15/Lichtblicke-und-Fusstritte.html</guid>
+<pubDate>Sun, 15 Mar 2015 15:17:32 GMT </pubDate>
+<description>Description for your content.</description>
+</item>
+
+<item>
+<title>Überwachungsgesetze: Warum die Verfassung nicht präventiv schützen?</title>
+<link>http://iamwhyte.github.io/2015/02/22/Uberwachungsgesetze-Warum-die-Verfassung-nicht-praventiv-schutzen.html</link>
+<guid>http://iamwhyte.github.io/2015/02/22/Uberwachungsgesetze-Warum-die-Verfassung-nicht-praventiv-schutzen.html</guid>
+<pubDate>Sun, 22 Feb 2015 15:17:32 GMT</pubDate>
+</item>
+
+<item>
+<title>Kreditkarten enthalten NSA und GCHQ</title>
+<link>http://iamwhyte.github.io/2015/02/20/Kreditkarten-enthalten-NSA-und-GCHQ.html</link>
+<guid>http://iamwhyte.github.io/2015/02/20/Kreditkarten-enthalten-NSA-und-GCHQ.html</guid>
+<pubDate>Fri, 20 Feb 2015 15:17:32 GMT </pubDate>
+</item>
+
+<item>
+<title>Man höre auf Richard Stallman</title>
+<link>http://iamwhyte.github.io/2015/02/18/Man-hore-auf-Richard-Stallman.html</link>
+<guid>http://iamwhyte.github.io/2015/02/18/Man-hore-auf-Richard-Stallman.html</guid>
+<pubDate>Wed, 18 Feb 2015 15:17:32 GMT </pubDate>
+</item>
+
+</channel>
+</rss>
