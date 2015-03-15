@@ -967,7 +967,7 @@ body:not(.post-template) .post-title {
     color: #50585D;
 }
 
-/* The subscribe icon on the footer */
+/* The subscribe icon on the footer 
 .subscribe {
     width: 28px;
     height: 28px;
@@ -981,9 +981,9 @@ body:not(.post-template) .post-title {
     border-radius: 50px;
     background: #FFF;
     transition: box-shadow 0.5s;
-}
+} */
 
-/* The RSS icon, inserted via icon font */
+/* The RSS icon, inserted via icon font 
 .subscribe:before {
     color: #D2DEE3;
     font-size: 10px;
@@ -992,7 +992,7 @@ body:not(.post-template) .post-title {
     left: 9px;
     font-weight: 700;
     transition: color 0.5s ease;
-}
+} */
 
 /* Add a box shadow to on hover */
 .subscribe:hover {
