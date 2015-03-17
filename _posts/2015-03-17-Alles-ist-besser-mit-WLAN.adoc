@@ -5,7 +5,9 @@ Das denken sich anscheinend Mattel und ToyTalk, die mit der WLAN-Barbie im Kinde
 Der http://www.heise.de/newsticker/meldung/Datenschutz-WLAN-Barbie-zeichnet-Gespraeche-im-Kinderzimmer-auf-2576510.html[Heise-Artikel] zur neuen Hello Barbie, die zwar reden kann, vorallem aber auch ein sehr guter Zuhörer ist, ließ das http://dasweissschesammelsurium.de/OOM.html[OOM] ebenfalls hellhörig werden. 
 
 Als "Jibberjabber" und damit irrelevanten Firlefanz markiert haben die Algorithmen Aussagen des Herstellers http://www.washingtonpost.com/blogs/the-switch/wp/2015/03/11/privacy-advocates-try-to-keep-creepy-eavesdropping-hello-barbie-from-hitting-shelves/[gegenüber der Washington Post]: 
+
 _"Mattel is committed to safety and security, and Hello Barbie conforms to applicable government standards"_;
+
 _"The data is never used for anything to do with marketing or publicity or any of that stuff. Not at all"_
 
 http://dasweissschesammelsurium.de/OOM.html[OOM++;]
