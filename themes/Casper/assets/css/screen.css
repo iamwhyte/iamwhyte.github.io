@@ -1487,7 +1487,7 @@ body:not(.post-template) .post-title {
         height: 44px;
         line-height: 41px;
         border-radius: 0;
-        color: #2e2e2e;
+        color: #000000;
         background: transparent;
     }
     .back-button:hover,
