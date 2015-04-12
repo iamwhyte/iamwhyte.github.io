@@ -1,4 +1,5 @@
 = Per Anhalter durch das Internet
+
 == Ein Reiseführer für sichere Trips in digitalen Welten
 
 Das Internet ist eine einigermaßen heikle Geschichte. Für das, was aus ihm geworden ist, ist es leider eine Fehlkonstruktion: Was ganz gut funktionierte, als vier amerikanische Universitäten vernetzt wurden, offenbart jede Menge Schwachstellen, wenn Akteure hinzukommen, denen man nicht trauen kann (siehe z.B. Pam, Where World Wide Web Went Wrong). Nun fließt das Internet leider auch noch Großteils durch ein Land, von dem man aller-allerspätestens seit Snowden weiß, dass man besser überhaupt keinem darin mehr trauen sollte: NSA und Obama überwachen alles, Firmen das, was sie in die Hände kriegen. Europäische Volksvertreter reden im besten Fall von Neuland und geben zu, dass sie keine Ahnung haben, wollen im schlimmsten Fall Verschlüsselung verbieten, Vorratsdatenspeicherung einführen und Grundrechtsverletzungen intensivieren, indem sie Kooperationen mit den Kriminellen von der NSA ausbauen.
